@@ -1,3 +1,23 @@
+NAME:CHANDRU.P
+
+
+
+REG NO:212223110007
+
+
+
+
+DEPT:CSE(IOT)
+
+
+
+
+
+   
+
+
+
+
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
